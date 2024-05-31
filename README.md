@@ -6,7 +6,7 @@ This is a project containing the database of the fashion taste or rather prefere
 
 ## Data Source
 ---
-The primary data source used is the Fashion Types.xlsx and thu=is open source of datasets can be downloaded freely from open onlone sources like Kaggle or Google Data
+The primary data source used is the Fashion Types.xlsx and this open source of datasets can be downloaded freely from open online sources like Kaggle or Google Data.
 
 Tools Used
 ---
